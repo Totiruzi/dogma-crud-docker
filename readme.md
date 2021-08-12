@@ -22,3 +22,5 @@ and following external packages :
 - Put update a user http://localhost:8080/api/user/{id}
 
 - Delete a user http://localhost:8080/api/deleteuser/{id}
+
+- Was trying to build a docker file but could not yet get an handle on it
